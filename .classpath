@@ -48,7 +48,6 @@
 	<classpathentry kind="src" path="src/Observer/Q1"/>
 	<classpathentry kind="src" path="src/Observer/Sample"/>
 	<classpathentry kind="src" path="src/Prototype/Sample"/>
-	<classpathentry kind="src" path="src/Proxy/Sample"/>
 	<classpathentry kind="src" path="src/Singleton/A1"/>
 	<classpathentry kind="src" path="src/Singleton/A2"/>
 	<classpathentry kind="src" path="src/Singleton/A3_1"/>
@@ -73,5 +72,6 @@
 	<classpathentry kind="src" path="main/src"/>
 	<classpathentry kind="src" path="main/test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
