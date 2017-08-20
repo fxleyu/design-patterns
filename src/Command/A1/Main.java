@@ -1,5 +1,6 @@
 import command.*;
 import drawer.*;
+import fx.leyu.designpatterns.proxy.sample.Main;
 
 import java.awt.*;
 import java.awt.event.*;
