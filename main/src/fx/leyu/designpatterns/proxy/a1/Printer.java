@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.proxy.a1;
+
 public class Printer implements Printable {
     private String name;
     public Printer() {

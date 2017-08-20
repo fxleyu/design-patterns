@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.proxy.sample;
+
 public class PrinterProxy implements Printable {
     private String name;            // 名字
     private Printer real;           // “本人”
