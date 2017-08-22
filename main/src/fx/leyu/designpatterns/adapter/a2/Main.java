@@ -1,10 +1,11 @@
+package fx.leyu.designpatterns.adapter.a2;
 import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
         FileIO f = new FileProperties();
         try {
-            f.readFromFile("file.txt");
+            f.readFromFile("./fx/leyu/designpatterns/adapter/a2/file.txt");
             f.setValue("year", "2004");
             f.setValue("month", "4");
             f.setValue("day", "21");

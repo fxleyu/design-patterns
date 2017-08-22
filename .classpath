@@ -2,10 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src/AbstractFactory/A2"/>
 	<classpathentry kind="src" path="src/AbstractFactory/Sample"/>
-	<classpathentry kind="src" path="src/Adapter/A2"/>
-	<classpathentry kind="src" path="src/Adapter/Q2"/>
-	<classpathentry kind="src" path="src/Adapter/Sample1"/>
-	<classpathentry kind="src" path="src/Adapter/Sample2"/>
 	<classpathentry kind="src" path="src/Bridge/A1"/>
 	<classpathentry kind="src" path="src/Bridge/A2"/>
 	<classpathentry kind="src" path="src/Bridge/A3"/>

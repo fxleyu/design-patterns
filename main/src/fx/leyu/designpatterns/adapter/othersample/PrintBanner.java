@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.adapter.othersample;
 public class PrintBanner extends Print {
     private Banner banner;
     public PrintBanner(String string) {

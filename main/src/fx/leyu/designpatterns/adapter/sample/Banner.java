@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.adapter.sample;
 public class Banner {
     private String string;
     public Banner(String string) {

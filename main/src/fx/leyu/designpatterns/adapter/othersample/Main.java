@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.adapter.othersample;
 public class Main {
     public static void main(String[] args) {
         Print p = new PrintBanner("Hello");

@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.adapter.a2;
 import java.io.*;
 import java.util.*;
 
