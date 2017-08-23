@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.singleton.a1;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Start.");

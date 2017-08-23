@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.singleton.a3_1;
+
 public class Main extends Thread {
     public static void main(String[] args) {
         System.out.println("Start.");

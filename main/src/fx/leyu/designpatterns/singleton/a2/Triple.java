@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.singleton.a2;
 public class Triple {
     private static Triple[] triple = new Triple[]{
         new Triple(0),

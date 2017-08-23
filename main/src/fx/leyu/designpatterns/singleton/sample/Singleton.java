@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.singleton.sample;
+
 public class Singleton {
     private static Singleton singleton = new Singleton();
     private Singleton() {                                 

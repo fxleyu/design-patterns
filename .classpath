@@ -44,13 +44,6 @@
 	<classpathentry kind="src" path="src/Observer/Q1"/>
 	<classpathentry kind="src" path="src/Observer/Sample"/>
 	<classpathentry kind="src" path="src/Prototype/Sample"/>
-	<classpathentry kind="src" path="src/Singleton/A1"/>
-	<classpathentry kind="src" path="src/Singleton/A2"/>
-	<classpathentry kind="src" path="src/Singleton/A3_1"/>
-	<classpathentry kind="src" path="src/Singleton/A3_2"/>
-	<classpathentry kind="src" path="src/Singleton/Q1"/>
-	<classpathentry kind="src" path="src/Singleton/Q3"/>
-	<classpathentry kind="src" path="src/Singleton/Sample"/>
 	<classpathentry kind="src" path="src/State/A3"/>
 	<classpathentry kind="src" path="src/State/A4"/>
 	<classpathentry kind="src" path="src/State/Sample"/>
