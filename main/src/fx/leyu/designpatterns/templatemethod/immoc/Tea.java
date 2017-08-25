@@ -12,5 +12,10 @@ public class Tea extends RefreshBeverage {
     protected void boilWater() {
         System.out.println("加入柠檬");
     }
+    
+    @Override
+    protected boolean isCustomerWantsCondiments() {
+        return false;
+    }
 
 }

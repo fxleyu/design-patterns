@@ -19,7 +19,10 @@ public abstract class RefreshBeverage {
         // 将饮料倒入杯中
         pourInCup();
         // 加入调味料
-        addCondiments();
+        if (isCustomerWantsCondiments()) {
+            addCondiments();
+        }
+        
     }
 
     private void addCondiments() {
@@ -28,6 +31,10 @@ public abstract class RefreshBeverage {
 
     private void pourInCup() {
         System.out.println("将饮料倒入杯中");
+    }
+    
+    protected boolean isCustomerWantsCondiments() {
+        return true;
     }
 
     protected abstract void brew();
