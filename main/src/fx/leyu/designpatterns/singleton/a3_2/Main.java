@@ -1,5 +1,4 @@
 package fx.leyu.designpatterns.singleton.a3_2;
-import fx.leyu.designpatterns.templatemethod.sample.Main;
 
 public class Main extends Thread {
     public static void main(String[] args) {

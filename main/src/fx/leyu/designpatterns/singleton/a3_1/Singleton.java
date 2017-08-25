@@ -1,5 +1,4 @@
 package fx.leyu.designpatterns.singleton.a3_1;
-import fx.leyu.designpatterns.singleton.sample.Singleton;
 
 public class Singleton {
     private static Singleton singleton = null;

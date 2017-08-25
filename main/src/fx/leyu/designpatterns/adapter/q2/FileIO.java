@@ -1,4 +1,6 @@
-import java.io.*;
+package fx.leyu.designpatterns.adapter.q2;
+
+import java.io.IOException;
 
 public interface FileIO {
     public void readFromFile(String filename) throws IOException;
