@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.templatemethod.sample;
+
 public class Main {
     public static void main(String[] args) {
         AbstractDisplay d1 = new CharDisplay('H');                  // 生成一个持有'H'的CharDisplay类的实例 

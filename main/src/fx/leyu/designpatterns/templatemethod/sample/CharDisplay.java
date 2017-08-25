@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.templatemethod.sample;
 public class CharDisplay extends AbstractDisplay {  // CharDisplay是AbstractDisplay的子类 
     private char ch;                                // 需要显示的字符
     public CharDisplay(char ch) {                   // 构造函数中接收的字符被

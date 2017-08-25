@@ -51,7 +51,6 @@
 	<classpathentry kind="src" path="src/Strategy/A4"/>
 	<classpathentry kind="src" path="src/Strategy/Q4"/>
 	<classpathentry kind="src" path="src/Strategy/Sample"/>
-	<classpathentry kind="src" path="src/TemplateMethod/Sample"/>
 	<classpathentry kind="src" path="src/Visitor/A1"/>
 	<classpathentry kind="src" path="src/Visitor/A2"/>
 	<classpathentry kind="src" path="src/Visitor/A3"/>

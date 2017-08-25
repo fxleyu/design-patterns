@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.templatemethod.sample;
 public class StringDisplay extends AbstractDisplay {    // StringDisplay也是AbstractDisplay的子类 
     private String string;                              // 需要显示的字符串
     private int width;                                  // 以字节为单位计算出的字符串长度
