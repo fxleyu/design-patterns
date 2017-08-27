@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.chainofresponsibility.a4;
 public abstract class Support {
     private String name;                    // 解决问题的实例的名字
     private Support next;                   // 要推卸给的对象
@@ -8,13 +9,15 @@ public abstract class Support {
         this.next = next;
         return next;
     }
-    public void support(Trouble trouble) {  // 解决问题的步骤
-        if (resolve(trouble)) {
-            done(trouble);
-        } else if (next != null) {
-            next.support(trouble);
-        } else {
-            fail(trouble);
+    public void support(Trouble trouble) {
+        for (Support obj = this; true; obj = obj.next) {
+            if (obj.resolve(trouble)) {
+                obj.done(trouble);
+                break;
+            } else if (obj.next == null) {
+                obj.fail(trouble);
+                break;
+            }
         }
     }
     public String toString() {              // 显示字符串

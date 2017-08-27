@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.chainofresponsibility.a4;
 public class NoSupport extends Support {
     public NoSupport(String name) {
         super(name);

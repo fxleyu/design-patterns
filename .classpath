@@ -10,8 +10,6 @@
 	<classpathentry kind="src" path="src/Builder/A3"/>
 	<classpathentry kind="src" path="src/Builder/A4"/>
 	<classpathentry kind="src" path="src/Builder/Sample"/>
-	<classpathentry kind="src" path="src/ChainOfResponsibility/A4"/>
-	<classpathentry kind="src" path="src/ChainOfResponsibility/Sample"/>
 	<classpathentry kind="src" path="src/Command/A1"/>
 	<classpathentry kind="src" path="src/Command/A2"/>
 	<classpathentry kind="src" path="src/Command/A3"/>

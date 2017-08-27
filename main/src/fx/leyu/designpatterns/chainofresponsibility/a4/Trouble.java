@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.chainofresponsibility.a4;
 public class Trouble {
     private int number;             // 问题编号
     public Trouble(int number) {    // 生成问题

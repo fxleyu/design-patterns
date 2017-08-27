@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.chainofresponsibility.a4;
 public class SpecialSupport extends Support {
     private int number;                                 // 只能解决指定编号的问题
     public SpecialSupport(String name, int number) {    // 构造函数

@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.chainofresponsibility.a4;
 public class LimitSupport extends Support {
     private int limit;                              // 可以解决编号小于limit的问题
     public LimitSupport(String name, int limit) {   // 构造函数
