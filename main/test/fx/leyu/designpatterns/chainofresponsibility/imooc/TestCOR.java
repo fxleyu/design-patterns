@@ -4,14 +4,14 @@ import java.util.Random;
 
 import org.junit.Test;
 
-import fx.leyu.designpatterns.chainofresponsibility.imooc.handler.PriceHandler;
+import fx.leyu.designpatterns.chainofresponsibility.imooc.handler.PriceHandlerFactory;
 
 public class TestCOR {
 
     @Test
     public void main() {
         Customer customer = new Customer();
-        customer.setPriceHandler(PriceHandler.createPriceHandler());
+        customer.setPriceHandler(PriceHandlerFactory.createPriceHandler());
         
         customer.requestDiscount(0.01f);
         
