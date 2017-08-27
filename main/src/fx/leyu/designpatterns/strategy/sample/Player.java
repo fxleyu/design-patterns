@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.strategy.sample;
+
 public class Player {
     private String name;
     private Strategy strategy;

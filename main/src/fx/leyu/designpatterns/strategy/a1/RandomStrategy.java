@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.strategy.a1;
 import java.util.Random;
 
 public class RandomStrategy implements Strategy {

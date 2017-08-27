@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.strategy.a4;
+
 public class QuickSorter implements Sorter {
     Comparable[] data;
     public void sort(Comparable[] data) {

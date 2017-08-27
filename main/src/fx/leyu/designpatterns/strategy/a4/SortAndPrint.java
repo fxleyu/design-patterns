@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.strategy.a4;
+
 public class SortAndPrint {
     Comparable[] data;
     Sorter sorter;

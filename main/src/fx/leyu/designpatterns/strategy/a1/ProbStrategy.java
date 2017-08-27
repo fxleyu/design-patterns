@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.strategy.a1;
+
 import java.util.Random;
 
 public class ProbStrategy implements Strategy {

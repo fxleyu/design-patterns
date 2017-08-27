@@ -45,10 +45,6 @@
 	<classpathentry kind="src" path="src/State/A3"/>
 	<classpathentry kind="src" path="src/State/A4"/>
 	<classpathentry kind="src" path="src/State/Sample"/>
-	<classpathentry kind="src" path="src/Strategy/A1"/>
-	<classpathentry kind="src" path="src/Strategy/A4"/>
-	<classpathentry kind="src" path="src/Strategy/Q4"/>
-	<classpathentry kind="src" path="src/Strategy/Sample"/>
 	<classpathentry kind="src" path="src/Visitor/A1"/>
 	<classpathentry kind="src" path="src/Visitor/A2"/>
 	<classpathentry kind="src" path="src/Visitor/A3"/>
