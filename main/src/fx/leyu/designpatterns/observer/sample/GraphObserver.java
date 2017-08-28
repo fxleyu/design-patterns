@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.observer.sample;
+
 public class GraphObserver implements Observer {
     public void update(NumberGenerator generator) {
         System.out.print("GraphObserver:");

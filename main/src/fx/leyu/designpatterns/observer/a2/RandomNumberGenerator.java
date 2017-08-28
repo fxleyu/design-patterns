@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.observer.a2;
 import java.util.Random;
 
 public class RandomNumberGenerator extends NumberGenerator {

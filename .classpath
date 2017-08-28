@@ -37,10 +37,6 @@
 	<classpathentry kind="src" path="src/Mediator/Sample"/>
 	<classpathentry kind="src" path="src/Memento/A4"/>
 	<classpathentry kind="src" path="src/Memento/Sample"/>
-	<classpathentry kind="src" path="src/Observer/A1"/>
-	<classpathentry kind="src" path="src/Observer/A2"/>
-	<classpathentry kind="src" path="src/Observer/Q1"/>
-	<classpathentry kind="src" path="src/Observer/Sample"/>
 	<classpathentry kind="src" path="src/Prototype/Sample"/>
 	<classpathentry kind="src" path="src/State/A3"/>
 	<classpathentry kind="src" path="src/State/A4"/>

@@ -1,3 +1,5 @@
+package fx.leyu.designpatterns.observer.a1;
+
 public class IncrementalNumberGenerator extends NumberGenerator {
     private int number;                     // 当前数值
     private int end;                        // 结束数值(不包含该值)

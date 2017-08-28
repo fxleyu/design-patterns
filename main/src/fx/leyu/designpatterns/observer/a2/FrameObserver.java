@@ -1,3 +1,4 @@
+package fx.leyu.designpatterns.observer.a2;
 import java.awt.Frame;
 import java.awt.TextField;
 import java.awt.Canvas;
@@ -6,6 +7,7 @@ import java.awt.Button;
 import java.awt.Graphics;
 import java.awt.BorderLayout;
 import java.awt.event.ActionListener;
+
 import java.awt.event.ActionEvent;
 
 public class FrameObserver extends Frame implements Observer, ActionListener {
